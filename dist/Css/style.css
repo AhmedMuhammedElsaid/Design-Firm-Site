@@ -479,8 +479,8 @@ button {
 /* Testimonail Sectoin Style*/
 .testimonail {
   position: relative;
-  background-image: url(../images/background/background8.jpg);
-  background-color: rgba(0, 0, 0, 0.7);
+  background-image:url(../images/background/background3.webp);
+  background-color: rgba(0,0,0,.5);
   background-attachment: fixed;
   background-size: cover;
   height: 500px;
